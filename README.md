@@ -1,4 +1,6 @@
-### Hi there 👋
+## hello there 🤠
+
+I'm Michal, self-taught software developer from Poland
 
 <!--
 **wbsth/wbsth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
